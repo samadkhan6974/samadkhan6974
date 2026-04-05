@@ -4,14 +4,14 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Btech Student (Computer Science)
+- 🎓 BTech Student (Computer Science)
 - 🌱 Currently learning **Java, DSA & Web Development**
 - 💡 Interested in **Software Development & Problem Solving**
 - 🎯 Goal: Become a Software Engineer
@@ -29,10 +29,10 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -40,18 +40,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samadkhan6974&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: your-samad13shakil@gmail.com  
+- 📧 Email: samad13shakil@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/samad-khan-bab512365/
 
 ---
