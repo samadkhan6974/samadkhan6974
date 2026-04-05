@@ -3,6 +3,23 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Samad Khan</h1>
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast</h3>
+
+<p align="center">
+BTech Computer Science student with a strong interest in Web Development and Java.  
+Currently exploring Full Stack Development and building practical projects to strengthen my skills.  
+My work focuses on developing responsive web applications and continuously improving problem-solving abilities.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
