@@ -1,8 +1,17 @@
+<!-- 🔥 Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Samad%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- 💫 Typing Animation -->
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🚀 Tech Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Software+Developer;Tech+Enthusiast;Java+%7C+AI+Learner;Building+Cool+Projects+🚀" />
+</h3>
 
 ---
 
+<!-- 👀 Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
