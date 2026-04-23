@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Software+Developer;Tech+Enthusiast;Java+%7C+AI+Learner;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
 </h3>
 
 ---
