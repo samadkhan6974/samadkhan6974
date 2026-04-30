@@ -3,8 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Samad%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Cloud%20Computing%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Samad Khan</h1>
-<h3 align="center">
+<p align="center">
+<i>
+Computer Science student focused on Full Stack, cloud infrastructure, and modern web technologies. <br>
+Building scalable applications, responsive interfaces, and efficient backend systems. <br>
+Exploring how real-world systems are designed, deployed, and optimized.
+</i>
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
 </h3>
 
