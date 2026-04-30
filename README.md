@@ -10,8 +10,10 @@ Building scalable applications, responsive interfaces, and efficient backend sys
 Exploring how real-world systems are designed, deployed, and optimized.
 </i>
 </p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
+</p>
 
 ---
 
