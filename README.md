@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Samad%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Samad%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Cloud%20Computing%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Samad Khan</h1>
 <h3 align="center">
