@@ -6,19 +6,9 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile+Views&color=00C9FF&style=flat-square" /><br/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=flat-square&color=2C5364&labelColor=0F2027" /><br/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Open%20to%20Work-2C5364?style=flat-square&labelColor=0F2027" /><br/>
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=for-the-badge&color=2C5364" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 
 </div>
 
@@ -122,4 +112,22 @@ Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTr
 
 ### Contribution Snake
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contr
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### What Drives Me
+
+*"Every system I build today is preparation for the scale I want to work at tomorrow."*
+
+Constantly learning, constantly shipping — one commit at a time.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00C9FF,100:0F2027&height=120&section=footer" width="100%"/>
