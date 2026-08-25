@@ -99,10 +99,7 @@
 <tr>
 <td width="100%">
 
-**SHOEBOX — E-commerce Shoe Store**
-Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTrigger animations, smooth-scroll UX, and Indian market pricing.
-`HTML` `CSS` `JavaScript` `GSAP`
-<!-- Add your live link / repo link here -->
+
 [🔗 Live Demo](#) &nbsp;|&nbsp; [📂 Source Code](#)
 
 </td>
