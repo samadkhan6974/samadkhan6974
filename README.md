@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,50:00C9FF,75:2C5364,100:0F2027&height=230&section=header&text=SAMAD%20KHAN&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=19&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,50:00C9FF,75:2C5364,100:0F2027&height=230&section=header&text=SAMAD%20KHAN&fontSize=48&fontAlignY=32&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Full%20Stack%20Developer%20%E2%80%94%20Ingeniero%20DevOps%20en%20formaci%C3%B3n&descAlignY=52&descSize=15&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD;Full+Stack+Web+Developer;Turning+Ideas+Into+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;Ingeniero+DevOps+en+Formaci%C3%B3n;AWS+%7C+Docker+%7C+CI%2FCD;Full+Stack+Web+Developer;Desarrollador+Full+Stack;Turning+Ideas+Into+Scalable+Systems" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=for-the-badge&color=2C5364" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile+Views+%2F+Vistas&color=00C9FF&style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers%20%2F%20Seguidores&style=flat-square&color=2C5364&labelColor=0F2027" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open%20to%20Work%20%2F%20Disponible-2C5364?style=flat-square&labelColor=0F2027" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -65,7 +75,7 @@
 
 <div align="center">
 
-### Tech Stack
+### Tech Stack / Stack Tecnológico
 
 <img src="https://skillicons.dev/icons?i=aws,docker,java,git,linux,html,css,js,mysql,vscode&theme=dark" />
 
@@ -75,16 +85,23 @@
 
 <div align="center">
 
-### Featured Project
+### Featured Project / Proyecto Destacado
 
 </div>
 
 <table>
 <tr>
-<td width="100%">
+<td valign="top" width="50%">
 
 **SHOEBOX — E-commerce Shoe Store**
 Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTrigger animations, smooth-scroll UX, and Indian market pricing.
+`HTML` `CSS` `JavaScript` `GSAP`
+
+</td>
+<td valign="top" width="50%">
+
+**SHOEBOX — Tienda de Zapatos en Línea**
+Sitio de comercio electrónico full-stack con diseño glassmorphism oscuro, animaciones GSAP/ScrollTrigger, desplazamiento suave y precios del mercado indio.
 `HTML` `CSS` `JavaScript` `GSAP`
 
 </td>
@@ -95,7 +112,7 @@ Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTr
 
 <div align="center">
 
-### GitHub Stats
+### GitHub Stats / Estadísticas de GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samadkhan6974&theme=tokyonight&hide_border=true" width="49%"/>
@@ -110,7 +127,7 @@ Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTr
 
 <div align="center">
 
-### Contribution Snake
+### Contribution Snake / Serpiente de Contribuciones
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -120,11 +137,13 @@ Full-stack e-commerce site built with a dark glassmorphism design, GSAP/ScrollTr
 
 <div align="center">
 
-### What Drives Me
+### What Drives Me / Qué Me Impulsa
 
 *"Every system I build today is preparation for the scale I want to work at tomorrow."*
+*"Cada sistema que construyo hoy es preparación para la escala en la que quiero trabajar mañana."*
 
 Constantly learning, constantly shipping — one commit at a time.
+Aprendiendo constantemente, entregando constantemente — un commit a la vez.
 
 </div>
 
