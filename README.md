@@ -83,11 +83,6 @@
 
 <br/>
 
-<div align="center">
-
-### Featured Project / Proyecto Destacado
-
-</div>
 
 <table>
 <tr>
