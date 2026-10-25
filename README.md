@@ -18,7 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile+Views&color=00C9FF&style=flat-square" />
 <img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=flat-square&color=2C5364&labelColor=0F2027" />
 <img src="https://img.shields.io/github/stars/samadkhan6974?label=Stars&style=flat-square&color=2C5364&labelColor=0F2027" />
-<img src="https://img.shields.io/github/repo-size/samadkhan6974/AI-Based-Virtual-Assitant?label=Assistant%20Repo&style=flat-square&color=2C5364&labelColor=0F2027" />
 
 </div>
 
@@ -26,19 +25,13 @@
 
 ## 👨‍💻 About Me
 
-```text
-> whoami
-Samad Khan — BTech Computer Science student
-
-> focus
-Full Stack Development  |  AWS Cloud  |  DevOps Engineering
-
-> mission
-Become a skilled DevOps / Cloud Engineer who ships reliable, scalable systems
-
-> status
-Building projects, containerizing them, and learning cloud deployment every day
-```
+> **whoami** → Samad Khan, BTech Computer Science student
+>
+> **focus** → Full Stack Development | AWS Cloud | DevOps Engineering
+>
+> **mission** → Become a skilled DevOps / Cloud Engineer who ships reliable, scalable systems
+>
+> **status** → Building projects, containerizing them, and learning cloud deployment every day
 
 | 🔭 Currently working on | 🌱 Currently learning | 🎯 Goal |
 |---|---|---|
@@ -117,6 +110,8 @@ Building projects, containerizing them, and learning cloud deployment every day
 
 </div>
 
+<br/>
+
 | Project | What it does | Tech |
 |---|---|---|
 | 🤖 **[AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant)** | Desktop assistant combining natural conversation with real system-level task execution | `Java` `Ollama` |
@@ -124,9 +119,7 @@ Building projects, containerizing them, and learning cloud deployment every day
 | 🎵 **[Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY)** | Music web app with play/pause/seek controls and dynamic song handling | `HTML` `CSS` `JS` |
 | 🎬 **[Netflix Clone](https://github.com/samadkhan6974/Netflix-clone)** | Responsive landing page with full-screen hero and overlay effects | `HTML` `CSS` |
 | ✊ **[Rock Paper Scissors](https://github.com/samadkhan6974/Rock-Paper-Scissor-game)** | Interactive game showing DOM manipulation and event handling | `HTML` `CSS` `JS` |
-| 🔷 **[CRISORA](https://github.com/samadkhan6974/CRISORA)** | <!-- TODO: write one honest line about what CRISORA does --> | `HTML` |
-
-<!-- OPTIONAL: if you have a merged PR or accepted contribution to an open-source project, add a row or section here with the PR link. -->
+| 🔷 **[CRISORA](https://github.com/samadkhan6974/CRISORA)** | Write one honest line about what CRISORA does | `HTML` |
 
 ---
 
@@ -146,6 +139,22 @@ Building projects, containerizing them, and learning cloud deployment every day
 
 ---
 
+## 📊 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samadkhan6974&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadkhan6974&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samadkhan6974&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadkhan6974&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samadkhan6974&theme=tokyonight&utcOffset=5" />
+
+</div>
+
+---
+
 ## 🗺️ Roadmap
 
 - [x] Build full-stack web projects (HTML, CSS, JS, Java, MySQL)
@@ -158,29 +167,7 @@ Building projects, containerizing them, and learning cloud deployment every day
 
 ---
 
-## 🐍 Contribution Snake
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
 
 ### 💡 What Drives Me
 
