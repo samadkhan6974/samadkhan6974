@@ -1,185 +1,109 @@
-<div align="center">
+# SAMAD KHAN
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:00C9FF&height=260&section=header&text=SAMAD%20KHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20AWS%20Cloud%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+| Campo / Field                          | Entrada / Entry                                   |
+|----------------------------------------|---------------------------------------------------|
+| Nombre / Name                          | Samad Khan                                        |
+| Rol / Role                             | Full Stack • Java • Aspiring DevOps & Cloud       |
+| Construyendo ahora / Currently Building| Full-stack projects & a local AI desktop assistant|
+| Intereses / Interests                  | Cloud (AWS) • Docker • CI/CD                      |
+| Proyecto actual / Current Project      | AI Virtual Assistant (Java + Ollama)              |
+| Abierto a / Open to                    | Internships · DevOps · Cloud · Open Source        |
 
-<a href="https://github.com/samadkhan6974">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=BTech+CSE+Student+%7C+Aspiring+DevOps+Engineer;Building+Full+Stack+Projects+in+Java+%26+Web;Learning+AWS+%7C+Docker+%7C+CI%2FCD;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
-</a>
+* * *
 
-<br/><br/>
+## 01 — Sobre mí / About
 
-<a href="https://www.linkedin.com/in/samad-khan-bab512365/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:samad13shakil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/samadkhan6974?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-00C9FF?style=for-the-badge&labelColor=0F2027"/>
+I build full-stack projects with Java and web technologies, and I'm moving into DevOps and cloud by containerizing and deploying what I build. *(Construyo proyectos full stack con Java y tecnologías web, y estoy avanzando hacia DevOps y la nube al contenerizar y desplegar lo que construyo.)*
 
-<br/><br/>
+My primary interests are cloud infrastructure, DevOps and backend development. *(Mi enfoque principal es la infraestructura en la nube, DevOps y el desarrollo backend.)* I'm currently learning Docker, AWS and CI/CD by applying them to my own projects.
 
-<img src="https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile+Views&color=00C9FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=flat-square&color=2C5364&labelColor=0F2027" />
-<img src="https://img.shields.io/github/stars/samadkhan6974?label=Stars&style=flat-square&color=2C5364&labelColor=0F2027" />
+* * *
 
-</div>
+## 02 — Enfoque actual / Current Focus
 
----
+| Área / Area                                   | Detalles / Details                                      |
+|-----------------------------------------------|---------------------------------------------------------|
+| Construyendo / Building                       | Full-stack web projects and a local AI desktop assistant|
+| Profundizando / Currently Learning            | Docker, AWS (EC2, S3, IAM), GitHub Actions              |
+| Practicando / Practicing                      | Data Structures & Algorithms in Java                    |
+| Explorando / Exploring                        | Linux, shell scripting, cloud-native workflows          |
+| Herramientas en uso / Tools in Rotation       | Java · Docker · AWS · Git · GitHub Actions              |
 
-## 👨‍💻 About Me
+* * *
 
-> **whoami** → Samad Khan, BTech Computer Science student
->
-> **focus** → Full Stack Development | AWS Cloud | DevOps Engineering
->
-> **mission** → Become a skilled DevOps / Cloud Engineer who ships reliable, scalable systems
->
-> **status** → Building projects, containerizing them, and learning cloud deployment every day
+## 03 — Proyectos destacados / Selected Projects
 
-| 🔭 Currently working on | 🌱 Currently learning | 🎯 Goal |
-|---|---|---|
-| Full-stack projects in Java & Web | AWS (EC2, S3, IAM) | DevOps / Cloud Engineer role |
-| Containerizing apps with Docker | CI/CD pipelines & cloud-native workflows | Deploy real projects on AWS |
-| DSA practice in Java | Linux & shell fundamentals | Contribute to open source |
+| Proyecto / Project | Stack | Descripción / Description |
+|--------------------|-------|---------------------------|
+| **[AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant)** | Java · Ollama | Desktop assistant that combines natural conversation with real system-level task execution, running on a local LLM |
+| **[Amazon Clone](https://github.com/samadkhan6974/Amazon-clone)** | HTML · CSS · JavaScript | Product listing, cart, user auth and order management |
+| **[Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY)** | HTML · CSS · JavaScript | Music web app with play/pause/seek controls and dynamic song loading |
+| **[CRISORA](https://github.com/samadkhan6974/CRISORA)** | HTML | WRITE_ONE_HONEST_LINE_ABOUT_CRISORA |
 
-<details>
-<summary><b>🇪🇸 Leer en español</b></summary>
+* * *
 
-<br/>
+## 04 — Arquitectura y aprendizajes / Architecture & Insights
 
-**Samad Khan** — Estudiante de BTech en Ciencias de la Computación.
+Architecture diagrams and deployment notes will be added as I containerize and deploy my projects. *(Los diagramas de arquitectura y las notas de despliegue se añadirán a medida que contenerice y despliegue mis proyectos.)*
 
-- Desarrollador Full Stack: Java, Desarrollo Web, MySQL
-- Aprendiendo AWS Cloud, Docker y fundamentos DevOps
-- Fortaleciendo Estructuras de Datos y Algoritmos a diario
-- Aprendiendo pipelines de CI/CD y flujos cloud-native
-- Meta: convertirme en Ingeniero DevOps / Cloud
+* * *
 
-*"Cada sistema que construyo hoy es preparación para la escala en la que quiero trabajar mañana."*
+## 05 — Filosofía de ingeniería / Engineering Philosophy
 
-</details>
+Quiero construir sistemas fiables, automatizados y fáciles de desplegar. *(I want to build systems that are reliable, automated, and easy to deploy.)*
 
----
+Una buena infraestructura debe ser reproducible, y los despliegues deben ser automáticos. *(Good infrastructure should be reproducible, and deployments should be automated.)*
 
-## 🛠️ Tech Stack
+* * *
 
-<div align="center">
+## 06 — Caja de herramientas / Toolbox
 
-**Languages & Web**
+| Categoría / Category        | Herramientas / Tools                  |
+|-----------------------------|---------------------------------------|
+| Cloud                       | AWS (learning)                        |
+| Contenedores / Containers   | Docker (learning)                     |
+| CI/CD                       | GitHub Actions (learning)             |
+| Lenguajes / Languages       | Java · JavaScript · HTML · CSS        |
+| Bases de datos / Databases  | MySQL                                 |
+| Sistema / System            | Linux · Bash · Git                    |
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=dark" />
+![](https://skillicons.dev/icons?i=java,js,html,css,mysql,aws,docker,linux,bash,git,githubactions)
 
-**Cloud, DevOps & Tools**
+* * *
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,bash,vscode&theme=dark" />
+## 07 — Actividad / Activity
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhan6974&layout=compact&hide_border=true)
 
-### 📊 Learning Progress
+* * *
 
-| Skill | Status |
-|---|---|
-| Java & DSA | ![](https://img.shields.io/badge/Status-Practicing%20Daily-00C9FF?style=flat-square&labelColor=0F2027) |
-| HTML / CSS / JavaScript | ![](https://img.shields.io/badge/Status-Building%20Projects-2C5364?style=flat-square&labelColor=0F2027) |
-| MySQL | ![](https://img.shields.io/badge/Status-Working%20Knowledge-2C5364?style=flat-square&labelColor=0F2027) |
-| Docker | ![](https://img.shields.io/badge/Status-Learning-F59E0B?style=flat-square&labelColor=0F2027) |
-| AWS (EC2, S3, IAM) | ![](https://img.shields.io/badge/Status-Learning-F59E0B?style=flat-square&labelColor=0F2027) |
-| CI/CD (GitHub Actions) | ![](https://img.shields.io/badge/Status-Learning-F59E0B?style=flat-square&labelColor=0F2027) |
+## 08 — Lema / Personal Motto
 
----
+> *Every system I build today is preparation for the scale I want to work at tomorrow.*
+> **Cada sistema que construyo hoy es preparación para la escala en la que quiero trabajar mañana.**
 
-## 🚀 Featured Projects
+* * *
 
-<div align="center">
+## 09 — En construcción / Currently Building
 
-<a href="https://github.com/samadkhan6974/AI-Based-Virtual-Assitant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=AI-Based-Virtual-Assitant&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samadkhan6974/Amazon-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=Amazon-clone&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samadkhan6974/PERSONAL-SPOTIFY">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=PERSONAL-SPOTIFY&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samadkhan6974/Netflix-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=Netflix-clone&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samadkhan6974/Rock-Paper-Scissor-game">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=Rock-Paper-Scissor-game&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/samadkhan6974/CRISORA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samadkhan6974&repo=CRISORA&theme=tokyonight&hide_border=true" />
-</a>
+- Dockerizing my full-stack project (`Dockerfile` + `docker-compose`)
+- CI/CD pipeline with GitHub Actions
+- Deploying a full-stack app on AWS (EC2 / S3 + IAM)
+- Live demos and architecture diagrams for every project
 
-</div>
+* * *
 
-<br/>
+## 10 — Contacto / Contact
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🤖 **[AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant)** | Desktop assistant combining natural conversation with real system-level task execution | `Java` `Ollama` |
-| 🛒 **[Amazon Clone](https://github.com/samadkhan6974/Amazon-clone)** | Product listings, cart, user auth and order management | `HTML` `CSS` `JS` |
-| 🎵 **[Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY)** | Music web app with play/pause/seek controls and dynamic song handling | `HTML` `CSS` `JS` |
-| 🎬 **[Netflix Clone](https://github.com/samadkhan6974/Netflix-clone)** | Responsive landing page with full-screen hero and overlay effects | `HTML` `CSS` |
-| ✊ **[Rock Paper Scissors](https://github.com/samadkhan6974/Rock-Paper-Scissor-game)** | Interactive game showing DOM manipulation and event handling | `HTML` `CSS` `JS` |
-| 🔷 **[CRISORA](https://github.com/samadkhan6974/CRISORA)** | Write one honest line about what CRISORA does | `HTML` |
+Abierto a colaboraciones en DevOps, automatización, proyectos cloud-native y código abierto. *(Open to collaborating on DevOps, automation, cloud-native projects, and open source.)*
 
----
+| Canal / Channel | Referencia / Reference                                              |
+|-----------------|---------------------------------------------------------------------|
+| E-mail          | samad13shakil@gmail.com                                             |
+| LinkedIn        | [linkedin.com/in/samad-khan-bab512365](https://www.linkedin.com/in/samad-khan-bab512365/) |
+| GitHub          | [github.com/samadkhan6974](https://github.com/samadkhan6974)        |
 
-## 📈 GitHub Analytics
+## Más allá de la ingeniería / Beyond Engineering
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samadkhan6974&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhan6974&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=samadkhan6974&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samadkhan6974&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samadkhan6974&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadkhan6974&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samadkhan6974&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadkhan6974&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samadkhan6974&theme=tokyonight&utcOffset=5" />
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-- [x] Build full-stack web projects (HTML, CSS, JS, Java, MySQL)
-- [x] Build an AI-powered desktop assistant with Java + Ollama
-- [ ] Containerize my projects with Docker
-- [ ] Set up CI/CD with GitHub Actions
-- [ ] Deploy a full-stack app on AWS (EC2 / S3)
-- [ ] Add architecture diagrams and live demos to every project
-- [ ] Contribute to open-source projects
-
----
-
-<div align="center">
-
-### 💡 What Drives Me
-
-*"Every system I build today is preparation for the scale I want to work at tomorrow."*
-
-**Constantly learning, constantly shipping — one commit at a time.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/samad-khan-bab512365/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:samad13shakil@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-00C9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:00C9FF,100:0F2027&height=120&section=footer" width="100%"/>
+WRITE_ONE_REAL_LINE_ABOUT_YOUR_INTERESTS_OUTSIDE_CODING
