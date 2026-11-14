@@ -1,109 +1,83 @@
-# SAMAD KHAN
+<h1 align="center">Samad Khan</h1>
 
-| Campo / Field                          | Entrada / Entry                                   |
-|----------------------------------------|---------------------------------------------------|
-| Nombre / Name                          | Samad Khan                                        |
-| Rol / Role                             | Full Stack • Java • Aspiring DevOps & Cloud       |
-| Construyendo ahora / Currently Building| Full-stack projects & a local AI desktop assistant|
-| Intereses / Interests                  | Cloud (AWS) • Docker • CI/CD                      |
-| Proyecto actual / Current Project      | AI Virtual Assistant (Java + Ollama)              |
-| Abierto a / Open to                    | Internships · DevOps · Cloud · Open Source        |
+<p align="center">
+  Full Stack Developer &nbsp;|&nbsp; Aspiring DevOps and Cloud Engineer<br>
+  BTech Computer Science
+</p>
 
-* * *
+<p align="center">
+  <a href="https://www.linkedin.com/in/samad-khan-bab512365/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/samadkhan6974/nexus-op">Featured Project: NEXUS OPS</a>
+</p>
 
-## 01 — Sobre mí / About
+---
 
-I build full-stack projects with Java and web technologies, and I'm moving into DevOps and cloud by containerizing and deploying what I build. *(Construyo proyectos full stack con Java y tecnologías web, y estoy avanzando hacia DevOps y la nube al contenerizar y desplegar lo que construyo.)*
+## Summary
 
-My primary interests are cloud infrastructure, DevOps and backend development. *(Mi enfoque principal es la infraestructura en la nube, DevOps y el desarrollo backend.)* I'm currently learning Docker, AWS and CI/CD by applying them to my own projects.
+I build full-stack applications and am specializing in DevOps and cloud infrastructure. My approach is to take what I build and make it reproducible: containerized, automated, deployed and monitored. I am looking for an internship or entry-level role where I can work on deployment pipelines, cloud infrastructure and backend systems.
 
-* * *
+**Seeking:** Internships and entry-level roles in DevOps, Cloud Engineering and Backend Development.
 
-## 02 — Enfoque actual / Current Focus
+---
 
-| Área / Area                                   | Detalles / Details                                      |
-|-----------------------------------------------|---------------------------------------------------------|
-| Construyendo / Building                       | Full-stack web projects and a local AI desktop assistant|
-| Profundizando / Currently Learning            | Docker, AWS (EC2, S3, IAM), GitHub Actions              |
-| Practicando / Practicing                      | Data Structures & Algorithms in Java                    |
-| Explorando / Exploring                        | Linux, shell scripting, cloud-native workflows          |
-| Herramientas en uso / Tools in Rotation       | Java · Docker · AWS · Git · GitHub Actions              |
+## Featured Project
 
-* * *
+### [NEXUS OPS](https://github.com/samadkhan6974/nexus-op)
 
-## 03 — Proyectos destacados / Selected Projects
+A cloud deployment, monitoring and self-healing platform, built to practice the full delivery lifecycle of a production service.
 
-| Proyecto / Project | Stack | Descripción / Description |
-|--------------------|-------|---------------------------|
-| **[AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant)** | Java · Ollama | Desktop assistant that combines natural conversation with real system-level task execution, running on a local LLM |
-| **[Amazon Clone](https://github.com/samadkhan6974/Amazon-clone)** | HTML · CSS · JavaScript | Product listing, cart, user auth and order management |
-| **[Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY)** | HTML · CSS · JavaScript | Music web app with play/pause/seek controls and dynamic song loading |
-| **[CRISORA](https://github.com/samadkhan6974/CRISORA)** | HTML | WRITE_ONE_HONEST_LINE_ABOUT_CRISORA |
+| | |
+|---|---|
+| **Stack** | Node.js, Express, Docker, Docker Compose, AWS EC2, GitHub Actions, Terraform, Prometheus, Grafana, Nginx, Trivy |
+| **Completed** | Express service with `/`, `/health` and `/api/version` endpoints; version-controlled repository |
+| **In progress** | Containerization, CI/CD pipeline, AWS EC2 deployment |
+| **Planned** | Terraform provisioning, Prometheus and Grafana monitoring, automated self-healing, container security scanning, rollback and blue-green deployments |
 
-* * *
+---
 
-## 04 — Arquitectura y aprendizajes / Architecture & Insights
+## Other Projects
 
-Architecture diagrams and deployment notes will be added as I containerize and deploy my projects. *(Los diagramas de arquitectura y las notas de despliegue se añadirán a medida que contenerice y despliegue mis proyectos.)*
+| Project | Description | Stack |
+|---|---|---|
+| [AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant) | Desktop assistant that combines natural conversation with real system-level task execution, running on a local LLM. | Java, Ollama |
+| [Amazon Clone](https://github.com/samadkhan6974/Amazon-clone) | E-commerce front end with product listings, shopping cart, authentication flow and order management. | HTML, CSS, JavaScript |
+| [Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY) | Music streaming web app with play, pause and seek controls and dynamic song loading. | HTML, CSS, JavaScript |
+| [Netflix Clone](https://github.com/samadkhan6974/Netflix-clone) | Responsive landing page with a full-screen hero section and overlay effects. | HTML, CSS |
 
-* * *
+---
 
-## 05 — Filosofía de ingeniería / Engineering Philosophy
+## Technical Skills
 
-Quiero construir sistemas fiables, automatizados y fáciles de desplegar. *(I want to build systems that are reliable, automated, and easy to deploy.)*
+| Area | Tools |
+|---|---|
+| **Languages** | Java, JavaScript, HTML, CSS, Bash |
+| **Backend** | Node.js, Express, MySQL |
+| **DevOps and Cloud (developing)** | Docker, AWS (EC2, S3, IAM), GitHub Actions, Terraform |
+| **Systems and Tooling** | Linux, Git, GitHub, VS Code |
 
-Una buena infraestructura debe ser reproducible, y los despliegues deben ser automáticos. *(Good infrastructure should be reproducible, and deployments should be automated.)*
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mysql,linux,bash,git,aws,docker,githubactions,terraform&theme=dark" alt="Technology icons">
+</p>
 
-* * *
+---
 
-## 06 — Caja de herramientas / Toolbox
+## Engineering Principles
 
-| Categoría / Category        | Herramientas / Tools                  |
-|-----------------------------|---------------------------------------|
-| Cloud                       | AWS (learning)                        |
-| Contenedores / Containers   | Docker (learning)                     |
-| CI/CD                       | GitHub Actions (learning)             |
-| Lenguajes / Languages       | Java · JavaScript · HTML · CSS        |
-| Bases de datos / Databases  | MySQL                                 |
-| Sistema / System            | Linux · Bash · Git                    |
+- **Reproducible:** an environment should be rebuilt from code, not from memory.
+- **Automated:** if a step is repeated, it belongs in a pipeline.
+- **Observable:** a service is not finished until it can be monitored.
+- **Documented:** every project should be runnable by a stranger from its README.
 
-![](https://skillicons.dev/icons?i=java,js,html,css,mysql,aws,docker,linux,bash,git,githubactions)
+---
 
-* * *
+## Currently
 
-## 07 — Actividad / Activity
+- Containerizing NEXUS OPS and building its CI/CD pipeline
+- Learning AWS core services by deploying real projects
+- Practicing data structures and algorithms in Java
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhan6974&layout=compact&hide_border=true)
+---
 
-* * *
+## Contact
 
-## 08 — Lema / Personal Motto
-
-> *Every system I build today is preparation for the scale I want to work at tomorrow.*
-> **Cada sistema que construyo hoy es preparación para la escala en la que quiero trabajar mañana.**
-
-* * *
-
-## 09 — En construcción / Currently Building
-
-- Dockerizing my full-stack project (`Dockerfile` + `docker-compose`)
-- CI/CD pipeline with GitHub Actions
-- Deploying a full-stack app on AWS (EC2 / S3 + IAM)
-- Live demos and architecture diagrams for every project
-
-* * *
-
-## 10 — Contacto / Contact
-
-Abierto a colaboraciones en DevOps, automatización, proyectos cloud-native y código abierto. *(Open to collaborating on DevOps, automation, cloud-native projects, and open source.)*
-
-| Canal / Channel | Referencia / Reference                                              |
-|-----------------|---------------------------------------------------------------------|
-| E-mail          | samad13shakil@gmail.com                                             |
-| LinkedIn        | [linkedin.com/in/samad-khan-bab512365](https://www.linkedin.com/in/samad-khan-bab512365/) |
-| GitHub          | [github.com/samadkhan6974](https://github.com/samadkhan6974)        |
-
-## Más allá de la ingeniería / Beyond Engineering
-
-WRITE_ONE_REAL_LINE_ABOUT_YOUR_INTERESTS_OUTSIDE_CODING
+[LinkedIn](https://www.linkedin.com/in/samad-khan-bab512365/) &nbsp;|&nbsp; [GitHub](https://github.com/samadkhan6974)
