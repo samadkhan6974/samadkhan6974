@@ -76,10 +76,10 @@ Good infrastructure should be reproducible, and deployments should be automated.
 
 ## 07 — Actividad / Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadkhan6974&show_icons=true&hide_border=true&theme=transparent&title_color=2C5364&text_color=6e7681&icon_color=2C5364&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhan6974&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=6e7681)
-
-* * *
+![Profile Views](https://komarev.com/ghpvc/?username=samadkhan6974&label=Profile+Views&color=2C5364&style=flat-square)
+![Followers](https://img.shields.io/github/followers/samadkhan6974?label=Followers&style=flat-square&color=2C5364&labelColor=0F2027)
+[![GitHub](https://img.shields.io/badge/GitHub-samadkhan6974-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samadkhan6974)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samad%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-khan-bab512365/)
 
 ## 08 — Lema / Personal Motto
 
