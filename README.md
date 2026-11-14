@@ -37,7 +37,7 @@ My primary interests are cloud infrastructure, DevOps and backend development. *
 |--------------------|-------|---------------------------|
 | **[NEXUS OPS](https://github.com/samadkhan6974/nexus-op)** (in progress) | Node.js · Express · Docker · AWS EC2 · GitHub Actions · Terraform · Prometheus · Grafana | DevOps platform for cloud deployment, monitoring and self-healing. Express API with `/health` and `/api/version` is complete; containerization, CI/CD and AWS deployment are next, followed by Terraform, monitoring, security scanning and blue-green rollbacks |
 | **[AI Virtual Assistant](https://github.com/samadkhan6974/AI-Based-Virtual-Assitant)** | Java · Ollama | Desktop assistant that combines natural conversation with real system-level task execution, running on a local LLM |
-| **[Amazon Clone](https://github.com/samadkhan6974/Amazon-clone)** | HTML · CSS · JavaScript | E-commerce front end with product listings, cart, authentication flow and order management |
+| **[Rock Paper Scissors](https://github.com/samadkhan6974/Rock-Paper-Scissor-game)** | HTML · CSS · JavaScript | Interactive game demonstrating DOM manipulation, event handling and responsive UI design |
 | **[Personal Spotify](https://github.com/samadkhan6974/PERSONAL-SPOTIFY)** | HTML · CSS · JavaScript | Music web app with play, pause and seek controls and dynamic song loading |
 
 * * *
